@@ -2,6 +2,8 @@
 In general, it is not recommended to mix multiprocessing and multithreading
 together in the same program. In some special cases, however, we many combine
 them as an below example.
+Author: TLA. Tuan
+Last update: 2019-12-31
 '''
 
 import multiprocessing
