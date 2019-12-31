@@ -106,7 +106,7 @@ if __name__ == "__main__":
     print('The end!')
 
 # The OUPUT
-# C:\ProgramData\Anaconda3\python.exe D:/multiprocessing_multithreading.py
+# C:\ProgramData\Anaconda3\python.exe D:/Parallel/multiprocessing_multithreading.py
 
 # TEST 1: values = [1, 2, 3, 4, 5]
 # values = [1, 2, 3], name = test with num_threads = 3
