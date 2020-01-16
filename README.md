@@ -28,7 +28,7 @@
 > **In general, it is not recommended to mix multiprocessing and multithreading together in the same program**. In some special cases, however, we many combine them. This code will show how to do it.   
 ### 5. Terminate all the processes if one process has met the certain condition   
 > In some case, we may not need to wait for all processes to finish. But instead if one process has met the certain condition, we can stop all the processes.  
-#### 5.1. [Using terminate method]()   
+#### 5.1. [Using terminate method](https://github.com/tuantla80/Multiprocessing-Multithreading/blob/master/kill_process_using_terminate_method.py)   
 > Please take care when using terminate method by reading Python multiprocessing document.  
 #### 5.2 [Using multiprocessing Event]()  
 > In fact, it is a clone of threading event.
